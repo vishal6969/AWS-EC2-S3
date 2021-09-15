@@ -26,6 +26,7 @@
 
 ## Setup Nodejs Environment
 * Copy and Paste the following commands to activate nvm on your machine.
+
  ``
  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
  ``
@@ -46,6 +47,7 @@
  
 ## Running React Project 
 * Clone your react project from github using following command.
+
 ``
  git clone <github project link>
 ``
